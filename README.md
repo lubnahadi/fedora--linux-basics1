@@ -23,7 +23,7 @@ Lists files and directories.
 
 ## What i Learned 
 - Navigating directories using terminal
-- Basic Linux cmmands
+- Basic Linux commands
 - Understanding file structure in Linux
 
   ## Tools Used
