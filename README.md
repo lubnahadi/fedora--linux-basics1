@@ -1,6 +1,11 @@
 # Fedora Linux Basics
+
 ## Overview 
 This project demonstrates basic Linux command-line skills using Fedora Linux in a lab envoirment.
+
+## Screenshot
+![Fedora Screenshot] (Fedora .JPG)
+
 
 ## commands Practiced
 
